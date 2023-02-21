@@ -10,6 +10,4 @@ router
     .put("/episodios/:id", EpisodioController.atualizarEpisodio)
     .delete("/episodios/:id", EpisodioController.excluirEpisodio)
 
-
-
 export default router;
