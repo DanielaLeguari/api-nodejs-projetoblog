@@ -26,4 +26,4 @@ Tecnologias utilizadas para a construção desta API
 
 ### Repositório do Projeto front-end do Blog
 
-<a href='Link'>Repositório do projeto</a>
+<a href='https://github.com/DanielaLeguari/projeto-blog-typescript-react/tree/feature/api'>Repositório do projeto</a>
