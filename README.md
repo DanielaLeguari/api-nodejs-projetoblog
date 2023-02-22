@@ -22,3 +22,8 @@ Tecnologias utilizadas para a construção desta API
 ### Objetivo do projeto
 
 - Integrar a API no blog The Winchesters para listar todos os episódios da série. Esse é um blog é um projeto React com Typescript
+
+
+### Repositório do Projeto front-end do Blog
+
+<a href='Link'>Repositório do projeto</a>
