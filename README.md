@@ -9,6 +9,10 @@ Tecnologias utilizadas para a construção desta API
 
 <hr>
 
+# Cors()
+
+- `npm i cors`;
+
 ### Schemas
 
 - O projeto conta com o schema para listar os episódios da série e um crud básico com os métodos: get, post, put e delete.
